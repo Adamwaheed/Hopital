@@ -1,0 +1,22 @@
+ .jumbotron-custom {
+      background: url('https://source.unsplash.com/1600x600/?maldives,village') no-repeat center center;
+      background-size: cover;
+      color: white;
+      padding: 6rem 2rem;
+      border-radius: 0;
+    }
+
+    .jumbotron-overlay {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 3rem;
+      border-radius: 1rem;
+    }
+
+    .btn-turquoise {
+      background-color: #40E0D0;
+      color: #fff;
+    }
+
+    .btn-turquoise:hover {
+      background-color: #2bc3b7;
+    }
